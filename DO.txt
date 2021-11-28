@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) AME 47 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119779.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Bajo Techo TV (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119780.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Bonao TV Canal 12 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119781.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Cana Vision Canal 88 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119782.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Certv Canal 4 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119783.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Cielo Christian (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119784.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Cinevision Canal 19 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119785.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Color Vision Canal 9 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119786.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Comunion TV (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119787.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Cotubanama TV (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119788.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) En TV (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119789.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Hermanas Mirabal TV (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119790.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Hilando Fino TV (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119791.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) La Voz De Maria (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119792.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Maimon TV Canal 3 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119793.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) MegaVision 3V TV (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119794.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) MegaVision Canal 18 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119795.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Musavision Canal 10 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119796.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Peravia Cision Canal 8 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119797.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Pura Vida Canal 46 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119798.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) RNN Canal 27 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119799.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Sport Vision Canal 35 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Super TV 55 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119801.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Teleantillas Canal 2 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119802.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Telecontacto Canal 57 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119803.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Telemedios Canal 25 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119804.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Telemicro 5 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119805.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Telemilenio Canal 50 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119806.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Teleradio America Canal 45 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119807.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Telesistema Canal 11 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119808.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Teleuniverso Canal 29 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119809.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) TNI Canal 51 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119810.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) TV Plata Canal 3 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119811.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) TV Recuerdos Canal 56 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119812.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Vision 3000 Canal 3 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119813.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (DOM) Xtremo Vision Canal 22 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119814.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (HON) Canal 6 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119815.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin (HON) Go TV HD (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119816.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Canal 03
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119847.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Canal 14
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119848.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Canal 48
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119849.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Canal 58
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119850.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Canal 9 (D)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Canal del Sol  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119852.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO CERTV  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119853.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Digital 15  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119854.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Digital Vision  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119855.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Luna TV  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119856.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Microvision  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119857.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Ready Television HD  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119858.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Teleantillas  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Telecentro  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119860.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Telemicro  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119861.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Teleradio America  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119862.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Telesistema  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Teleuniverso  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119864.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LATINO",Latin DO Xtremo Premium  (P)
+http://thelegend.host:8080/live/laron.mccall@gmail.com/YTXDqsPQpx/119865.m3u8
